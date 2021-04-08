@@ -77,3 +77,4 @@
 *.arxiv.org
 *.go.dev
 *.who.is
+*.libgen.*
