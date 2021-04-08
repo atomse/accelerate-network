@@ -40,7 +40,7 @@
 *.ccfbits.org
 *.hotbak.net
 *.v2rayssr.com
-198.211.54.208 +big-squid
+198.211.54.208
 *.12bt.net
 *.bit.ly
 *.fontawesome.com
@@ -70,3 +70,10 @@
 *.byr.cn
 *.githubusercontent.com
 *.github.*
+*.hiwifi.com
+*.tunnelbroker.net
+*.sourceforge.net
+*.yandex.com
+*.arxiv.org
+*.go.dev
+*.who.is
