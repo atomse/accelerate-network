@@ -78,3 +78,4 @@
 ||go.dev
 ||who.is
 ||libgen.ru
+||edu
