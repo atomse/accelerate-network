@@ -79,3 +79,5 @@
 ||who.is
 ||libgen.ru
 ||edu
+||libgen.*
+||sci-hub.*
