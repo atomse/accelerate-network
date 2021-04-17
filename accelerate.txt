@@ -81,3 +81,4 @@
 ||edu
 ||libgen.*
 ||sci-hub.*
+||gitlab.com
