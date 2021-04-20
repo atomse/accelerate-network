@@ -82,3 +82,4 @@
 ||libgen.*
 ||sci-hub.*
 ||gitlab.com
+||greasyfork.org
