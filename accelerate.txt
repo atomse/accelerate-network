@@ -67,7 +67,7 @@
 .bootstrapcdn.com
 .byr.cn
 .githubusercontent.com
-.github.com
+||github.com
 .hiwifi.com
 .tunnelbroker.net
 .sourceforge.net
