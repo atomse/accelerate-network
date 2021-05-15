@@ -76,8 +76,9 @@
 .go.dev
 .who.is
 .edu
-.libgen.*
-.sci-hub.*
+||libgen.*
+||sci-hub.*
+||gitlab.com
 .gitlab.com
 .greasyfork.org
 .molihua.org
