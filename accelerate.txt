@@ -75,7 +75,6 @@
 .arxiv.*
 .go.dev
 .who.is
-.edu
 ||libgen.*
 ||sci-hub.*
 ||gitlab.com
