@@ -160,4 +160,5 @@ mobile6.atomse.net
 .expaper.cn
 api.crossref.org
 .metacpan.org
-.wikisource.*
+.wikisource.org
+.wikisource.net
