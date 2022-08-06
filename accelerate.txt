@@ -86,7 +86,6 @@
 .speedtest.net
 .bwh81.net
 .digwebinterface.com
-.tsinghua.edu.cn
 .mmuaa.com
 .ibb.co
 .pterclub.com
