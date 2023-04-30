@@ -212,8 +212,6 @@ api.crossref.org
 .carbonads.com
 .quanben.io
 .macrotrends.net
-172.16.4.2 +tmp
-192.168.125.21 +tmp
 .wikiquote.org
 .read01.com
 .time.com
