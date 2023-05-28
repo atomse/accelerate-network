@@ -242,3 +242,4 @@ api.crossref.org
 .get.one
 .sa
 .tw
+.wandb.ai
