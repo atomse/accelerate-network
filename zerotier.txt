@@ -1,0 +1,13 @@
+.google.com
+.google.com.hk
+.facebook.com
+.fb.com
+.youtube.com
+.googlevideo.com
+.github.com
+.openai.com
+.gstatic.com
+.ytimg.com
+.ggpht.com
+.twitter.com
+.steampowerd.com
